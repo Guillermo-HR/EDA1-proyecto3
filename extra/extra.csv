@@ -1,0 +1,13 @@
+Inicio,Destino,Peso
+Arquitectura,FFyL,30.94
+Arquitectura,Derecho,51.74
+Arquitectura,Ingenieria,32.5
+Arquitectura,Anexo Ingenieria,77.22
+FFyL,Derecho,52.26
+FFyL,Ingenieria,50.96
+Derecho,Ingenieria,29.64
+Derecho,Medicina,35.1
+Ingenieria,Quimica,31.46
+Ingenieria,Anexo Ingenieria,67.86
+Medicina,Quimica,37.96
+Quimica,Anexo Ingenieria,56.42
